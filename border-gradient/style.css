@@ -1,0 +1,8 @@
+.sq{
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 50px;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(60deg,rgba(255, 0, 0, 0.575),rgba(0, 128, 0, 0.444),yellow,black,pink);
+}
